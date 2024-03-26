@@ -1,0 +1,20 @@
+.card {
+  display: inline-block;
+  position: absolute
+}
+
+.card img {
+  width: 100px;
+  height: 150px;
+}
+
+.card img:hover {
+  width: 100px;
+  height: 150px;
+}
+
+#king:hover {
+  content: url('images/diamonds_ace.gif');
+  width: 100px;
+  height: 150px;
+}
